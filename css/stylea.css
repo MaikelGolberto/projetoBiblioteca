@@ -1,0 +1,22 @@
+.foot{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #1C1C1C;
+}
+
+footer{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: azure;
+}
+
+body{
+    background-image: url(../images/a5.png);
+	min-height: 350px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
